@@ -4,6 +4,13 @@
 
 # Superfighters Deluxe Map Modifier
 
+</div>
+
+> [!CAUTION]
+> This project has been superseded by [SFD.FileModifier](https://github.com/MythoFame/SFD.FileModifier)! It won't be maintained anymore.
+
+<div align="center">
+
 A F# CLI tool to modify Superfighters Deluxe maps and scripts.
 
 [![GitHub License](https://img.shields.io/github/license/dsafxP/SFD.MapModifier)](LICENSE)
